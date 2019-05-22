@@ -1,0 +1,8 @@
+/* ------------------------ */
+/* NAVBAR                   */
+/* ------------------------ */
+
+.navbar-brand {
+    height: 3.125rem !important;
+    min-width: 3em !important;
+}
